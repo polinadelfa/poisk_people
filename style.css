@@ -1,0 +1,59 @@
+.error {
+    color: red;
+    font-weight: 700;
+}
+
+.container{
+max-width: 1000px;
+margin: 0 auto;
+}
+
+#res{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile {
+    max-width: 400px;
+    padding: 20px;
+    border: 2px solid rgba(128, 128, 128, 0.591);
+}
+
+img {
+    max-width: 100%;
+}
+
+#search-form imput{
+    padding: 10px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    font-size: 20px;
+}
+
+#search-btn{
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+#search-form{
+    display: flex;
+}
+
+#history-list>div{
+    border: 2px;
+    align-items: center;
+    display: flex;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+
+ul{
+    margin: 10px 0;
+    padding: 0;
+}
+
