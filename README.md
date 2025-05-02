@@ -1,2 +1,1 @@
-# poisk_people
-poisk_people
+ https://polinadelfa.github.io/poisk_people/
